@@ -62,15 +62,11 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Docker](https://www.docker.com/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [[Docker](https://www.docker.com/) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -81,13 +77,20 @@ $ git clone https://github.com/SatangThevalue/docker-lmap
 # Access
 $ cd docker-lmap
 
-# Install dependencies
-$ yarn
-
 # Run the project
-$ yarn start
+$ docker-compose up -d
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in
+PHP 
+        HTTP port 80
+        HTTPS port 443
+mariadb 
+        port 3306
+        password docker
+phpmyadmin
+        port 8081
+        PMA_USER root
+        PMA_PASSWORD docker
 ```
 
 ## :memo: License ##
