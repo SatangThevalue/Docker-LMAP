@@ -50,10 +50,14 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
+:heavy_check_mark: Feature 1; ubuntu\
+:heavy_check_mark: Feature 2; apache\
+:heavy_check_mark: Feature 3; php 7.4\
+:heavy_check_mark: Feature 4; certbot / letsencrypt\
+:heavy_check_mark: Feature 5; certbotauto\
+:heavy_check_mark: Feature 6; composer\
+:heavy_check_mark: Feature 7; mariadb\
+:heavy_check_mark: Feature 8; phpmyadmin
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
