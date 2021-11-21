@@ -44,11 +44,11 @@
 
 <br>
 
-## :dart: About เกี่ยวกับโปรเจค ##
+## :dart: About  ##
 
 Describe your project
 
-## :sparkles: Features คุณสมบัติ ##
+## :sparkles: Features ##
 
 :heavy_check_mark: Feature 1; ubuntu\
 :heavy_check_mark: Feature 2; apache\
@@ -58,17 +58,17 @@ Describe your project
 :heavy_check_mark: Feature 6; composer\
 :heavy_check_mark: Feature 7; mariadb\
 :heavy_check_mark: Feature 8; phpmyadmin
-## :rocket: Technologies เทคโนโลยี ##
+## :rocket: Technologies ##
 
 The following tools were used in this project:
 
 - [Docker](https://www.docker.com/)
 
-## :white_check_mark: Requirements ความต้องการของโปรเจค ##
+## :white_check_mark: Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Docker](https://www.docker.com/) installed.
 
-## :checkered_flag: Starting เริ่มต้นการติดตั้ง ##
+## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
@@ -93,7 +93,7 @@ phpmyadmin
         PMA_PASSWORD docker
 ```
 
-## :memo: License ใบอนุญาต ##
+## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
